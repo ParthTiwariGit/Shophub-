@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Classic White Sneakers",
+    "price": 79.99,
+    "category": "Men",
+    "description": "Premium white leather sneakers with comfortable cushioning. Perfect for everyday wear.",
+    "image": "src/assets/product-sneakers.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Slim Fit Denim Jeans",
+    "price": 59.99,
+    "category": "Men",
+    "description": "Classic blue denim jeans with a modern slim fit. Made from durable stretch fabric.",
+    "image": "src/assets/product-jeans.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Floral Summer Dress",
+    "price": 89.99,
+    "category": "Women",
+    "description": "Beautiful floral print dress perfect for summer occasions. Lightweight and breathable.",
+    "image": "src/assets/product-dress.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "Wireless Earbuds Pro",
+    "price": 129.99,
+    "category": "Electronics",
+    "description": "Premium wireless earbuds with noise cancellation and 24-hour battery life.",
+    "image": "src/assets/product-earbuds.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "5",
+    "name": "Leather Messenger Bag",
+    "price": 149.99,
+    "category": "Men",
+    "description": "Handcrafted leather messenger bag with multiple compartments. Perfect for work or travel.",
+    "image": "/placeholder.svg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "6",
+    "name": "Yoga Leggings",
+    "price": 49.99,
+    "category": "Women",
+    "description": "High-waisted yoga leggings with moisture-wicking fabric. Great for workouts.",
+    "image": "/placeholder.svg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "7",
+    "name": "Smart Watch Series 5",
+    "price": 299.99,
+    "category": "Electronics",
+    "description": "Feature-packed smartwatch with fitness tracking, heart rate monitor, and GPS.",
+    "image": "/placeholder.svg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Cotton Polo Shirt",
+    "price": 39.99,
+    "category": "Men",
+    "description": "Classic cotton polo shirt available in multiple colors. Comfortable and stylish.",
+    "image": "/placeholder.svg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Oversized Sunglasses",
+    "price": 69.99,
+    "category": "Women",
+    "description": "Trendy oversized sunglasses with UV protection. Perfect fashion accessory.",
+    "image": "/placeholder.svg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "Bluetooth Speaker",
+    "price": 79.99,
+    "category": "Electronics",
+    "description": "Portable waterproof bluetooth speaker with 360° sound and 12-hour battery.",
+    "image": "/placeholder.svg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Running Shoes Pro",
+    "price": 119.99,
+    "category": "Men",
+    "description": "Professional running shoes with advanced cushioning technology. Lightweight design.",
+    "image": "/placeholder.svg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "Silk Scarf",
+    "price": 45.99,
+    "category": "Women",
+    "description": "Luxurious silk scarf with elegant patterns. Perfect gift for any occasion.",
+    "image": "/placeholder.svg",
+    "inStock": false,
+    "featured": false
+  }
+]
