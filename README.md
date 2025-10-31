@@ -1,12 +1,12 @@
-ShopHub
+# ShopHub
 
 A production-ready, fully functional e-commerce platform built with React.js, Context API, and Local Storage — featuring user authentication, cart, wishlist, checkout, product comparison, and local recommendations.
 
-Live Demo
+# Live Demo
 
 https://vercel.com/parthtiwaris-projects/shophub
 
-Key Features
+# Key Features
 
 1.User Authentication: Local signup, login, and logout with session persistence
 
