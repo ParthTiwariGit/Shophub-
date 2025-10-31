@@ -4,7 +4,7 @@ A production-ready, fully functional e-commerce platform built with React.js, Co
 
 # Live Demo
 
-https://vercel.com/parthtiwaris-projects/shophub
+[https://shophub-ebon.vercel.app/
 
 # Key Features
 
